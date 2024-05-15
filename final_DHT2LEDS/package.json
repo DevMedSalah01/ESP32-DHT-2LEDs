@@ -1,0 +1,23 @@
+{
+  "name": "final_dht2leds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coap-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "express": "^4.19.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.8.1",
+    "graphql-subscriptions": "^2.0.0",
+    "graphql-tools": "^9.0.1",
+    "graphql-yoga": "^5.3.1",
+    "mqtt": "^5.6.0",
+    "subscriptions-transport-ws": "^0.11.0"
+  }
+}
