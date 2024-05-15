@@ -11,7 +11,7 @@ This project involves interfacing an ESP32 microcontroller with a DHT22 temperat
 - **Remote Access**: Provides access to sensor data stored in the database, allowing users to retrieve historical readings.
 - **Real-time Monitoring**: Enables real-time monitoring of temperature, humidity, and LED status.
 - **LED Control**: Allows users to remotely control the status of two LEDs connected to the ESP32.
-- **GraphQL with MQTT**: Experimentation with GraphQL protocol over MQTT for efficient data transmission and querying.
+- **GraphQL with MQTT**: Experimentation with GraphQL protocol over MQTT for efficient data transmission and querying.(Still not working)
 
 ## Setup Instructions
 
